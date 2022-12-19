@@ -1,5 +1,7 @@
 *{
   padding: 0;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
 }
 .s {
   width: 100%;
@@ -47,4 +49,7 @@
   background-color:#0dcaf0;
   border: 0px;
   border-radius: 30px;
+}
+.nav-item:hover{
+  background-color:rgb(95, 92, 92);
 }
